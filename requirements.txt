@@ -1,0 +1,7 @@
+# Project 4: Sentiment Analysis System
+# DecodeLabs Industrial Training | Batch 2026
+
+# Built-in modules only — no installation needed:
+# - re       (text preprocessing)
+# - json     (save results)
+# - datetime (timestamps)
