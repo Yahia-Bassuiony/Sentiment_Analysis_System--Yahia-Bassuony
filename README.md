@@ -23,7 +23,7 @@ A rule-based sentiment analysis system that analyzes text and classifies it as P
 
 
 
-![Recommendation Results](results_screenshot.png)
+![Recommendation Results](results__screenshot.png)
 ---
 
 
